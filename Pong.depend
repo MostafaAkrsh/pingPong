@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600184787 source:e:\ws\pong\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<time.h>
+	<conio.h>
+
